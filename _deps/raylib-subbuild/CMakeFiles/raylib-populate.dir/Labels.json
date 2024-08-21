@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/abpla/pong/_deps/raylib-subbuild/CMakeFiles/raylib-populate"
+		},
+		{
+			"file" : "C:/Users/abpla/pong/_deps/raylib-subbuild/CMakeFiles/a51d5914177956c328a2da171fe70576/raylib-populate.rule"
+		},
+		{
+			"file" : "C:/Users/abpla/pong/_deps/raylib-subbuild/CMakeFiles/03ae2e1e36f916b537de3b32dbc184d1/raylib-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/abpla/pong/_deps/raylib-subbuild/CMakeFiles/db02694b9cd1514d7e509c4b1c7cc73e/raylib-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/abpla/pong/_deps/raylib-subbuild/CMakeFiles/db02694b9cd1514d7e509c4b1c7cc73e/raylib-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/abpla/pong/_deps/raylib-subbuild/CMakeFiles/db02694b9cd1514d7e509c4b1c7cc73e/raylib-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/abpla/pong/_deps/raylib-subbuild/CMakeFiles/db02694b9cd1514d7e509c4b1c7cc73e/raylib-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/abpla/pong/_deps/raylib-subbuild/CMakeFiles/db02694b9cd1514d7e509c4b1c7cc73e/raylib-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/abpla/pong/_deps/raylib-subbuild/CMakeFiles/db02694b9cd1514d7e509c4b1c7cc73e/raylib-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/abpla/pong/_deps/raylib-subbuild/CMakeFiles/db02694b9cd1514d7e509c4b1c7cc73e/raylib-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/abpla/pong/_deps/raylib-subbuild/CMakeFiles/db02694b9cd1514d7e509c4b1c7cc73e/raylib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"raylib-populate"
+		],
+		"name" : "raylib-populate"
+	}
+}

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\abpla\pong\_deps\raylib-subbuild\CMakeFiles\db02694b9cd1514d7e509c4b1c7cc73e\raylib-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\abpla\pong\_deps\raylib-subbuild\CMakeFiles\db02694b9cd1514d7e509c4b1c7cc73e\raylib-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\abpla\pong\_deps\raylib-subbuild\CMakeFiles\db02694b9cd1514d7e509c4b1c7cc73e\raylib-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\abpla\pong\_deps\raylib-subbuild\CMakeFiles\db02694b9cd1514d7e509c4b1c7cc73e\raylib-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\abpla\pong\_deps\raylib-subbuild\CMakeFiles\db02694b9cd1514d7e509c4b1c7cc73e\raylib-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\abpla\pong\_deps\raylib-subbuild\CMakeFiles\db02694b9cd1514d7e509c4b1c7cc73e\raylib-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\abpla\pong\_deps\raylib-subbuild\CMakeFiles\db02694b9cd1514d7e509c4b1c7cc73e\raylib-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\abpla\pong\_deps\raylib-subbuild\CMakeFiles\db02694b9cd1514d7e509c4b1c7cc73e\raylib-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\abpla\pong\_deps\raylib-subbuild\CMakeFiles\03ae2e1e36f916b537de3b32dbc184d1\raylib-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\abpla\pong\_deps\raylib-subbuild\CMakeFiles\a51d5914177956c328a2da171fe70576\raylib-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\abpla\pong\_deps\raylib-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\abpla\pong\_deps\raylib-subbuild\CMakeFiles\raylib-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{215934C2-3047-3ECC-9C2B-ADA2A6349C17}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
